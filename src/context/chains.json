@@ -1,0 +1,32 @@
+{
+    "26": {
+        "name": "ICICB",
+        "RPC": "https://rpc.icicb.com",
+        "chainId": 26,
+        "symbol": "ICICB"
+    },
+    "1": {
+        "name": "Ethereum",
+        "RPC": "https://cloudflare-eth.com/",
+        "chainId": 1,
+        "symbol": "ETH"
+    },
+    "56": {
+        "name": "Binance smart chain",
+        "RPC": "https://bsc-dataseed.binance.org/",
+        "chainId": 56,
+        "symbol": "BNB"
+    },
+    "250": {
+        "name": "Fantom",
+        "RPC": "https://rpc.ftm.tools/",
+        "chainId": 250,
+        "symbol": "ETH"
+    },
+    "4002": {
+        "name": "Fantom testnet",
+        "RPC": "https://rpc.testnet.fantom.network/",
+        "chainId": 4002,
+        "symbol": "FTM"
+    }
+}

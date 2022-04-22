@@ -1,0 +1,58 @@
+.top-1{
+    margin-top: 70px;
+}
+.transaction-1{
+    background-color: #9c743a75;  
+    padding: 15px 10px;
+    color: white;
+    display: flex;
+    margin: auto;
+    margin-top: 70px;
+    a{
+        color: white;
+        &:hover{
+        color: white;
+    }}
+}
+.icon-position{
+    text-align: right;
+    color: white;
+    cursor: pointer;
+    margin: auto;
+    font-size: 20px;
+    margin-right: 0px;
+}
+.back-btn{
+    cursor: pointer;
+}
+.modal-container{
+    position: absolute;
+    width: 250px;
+    border-radius: 10px;
+    border:1px solid #6c4623;
+    background-color: #060000;
+    top: 120px;
+    right: 0px;
+    z-index: 1001;
+}
+.expandView{
+    color: white;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    &:hover {
+        background-color: #8b8787;
+    }
+    
+    svg {
+        margin-left: 20px;
+    }
+    
+    svg,
+    a {
+        color: white !important;
+    }
+}
+.padding-5{
+    padding: 15px 5px;
+}
